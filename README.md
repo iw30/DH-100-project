@@ -3,6 +3,7 @@
 Feel free to connect & message me with any inquiries:
 
 William Ignatius Wijaya (williamwijayaiw30@berkeley.edu)
+
 Discord name: William Wijaya
 
 ## Bio

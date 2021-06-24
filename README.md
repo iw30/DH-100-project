@@ -21,6 +21,6 @@ My project is about comparison between two most common genres in Christian music
 
 Inside my Repo, I will be including:
 
-1. ![Storyboard](DIGHUM 100 Project Final- William Wijaya.pdf): Storyboard is the place where I communicate my projects. Storyboard is like a poster, where this is the place I explain my project in-depth. Before looking into the notebook, I suggest to look into the storyboard for further explanation relating to my project. 
+1. [Storyboard](https://drive.google.com/file/d/1X4PAT8CbUunflkZTg_GL2zogomUDX5ev/view?usp=sharing): Storyboard is the place where I communicate my projects. Storyboard is like a poster, where this is the place I explain my project in-depth. Before looking into the notebook, I suggest to look into the storyboard for further explanation relating to my project. 
 2. [Notebook](https://colab.research.google.com/drive/1Ud11ow7BxNaXwDpHFlISSj_-5szpTWgW?usp=sharing): This is my code that I use for this project. 
 3. [Presentation slides](https://docs.google.com/presentation/d/1CV86j4syKdfymUSHSsvmhTY6Wiod6vgi4G1QeaBFaCM/edit?usp=sharing): This is where I summarized my projects in form of PowerPoint slides. 

@@ -23,4 +23,5 @@ Inside my Repo, I will be including:
 
 1. [Storyboard](https://github.com/iw30/DH100-project/blob/main/DIGHUM%20100%20Project%20Final-%20William%20Wijaya.pdf): Storyboard is the place where I communicate my projects. Storyboard is like a poster, where this is the place I explain my project in-depth. Before looking into the notebook, I suggest to look into the storyboard for further explanation relating to my project. 
 2. [Notebook](https://github.com/iw30/DH100-project/blob/main/Wijaya_DH100_2021%20(1).ipynb): This is my code that I use for this project. 
-3. [Presentation slides](https://github.com/iw30/DH100-project/blob/main/Wijaya_Dighum100_powerpoint.pptx): This is where I summarized my projects in form of PowerPoint slides. 
+3. [Presentation slides](https://github.com/iw30/DH100-project/blob/main/Wijaya_Dighum100_powerpoint.pptx): This is where I summarized my projects in form of PowerPoint slides.
+4. [Presentation videos](https://drive.google.com/file/d/1ZeFv30WlYMeAKSNdp72S7za2bPkBVsbl/view?usp=sharing): This is a presentation video about my project.

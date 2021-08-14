@@ -1,4 +1,4 @@
-# DH 100 Portfolio
+# Portfolio
 
 Feel free to connect & message me with any inquiries:
 
